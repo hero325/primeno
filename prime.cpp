@@ -19,5 +19,7 @@ int main()
 { 
     isPrime(9) ? cout << " true\n" : cout << " false\n"; 
     isPrime(17) ? cout << " true\n" : cout << " false\n"; 
+    isPrime(2) ? cout << " true\n" : cout << " false\n"; 
+    isPrime(10) ? cout << " true\n" : cout << " false\n"; 
     return 0; 
 } 
